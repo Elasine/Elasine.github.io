@@ -11,7 +11,6 @@ tags:
     - Pedestrian Detection
 ---
 
-[TOC]
 
 # High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection
 
