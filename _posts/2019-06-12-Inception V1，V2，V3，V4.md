@@ -44,7 +44,7 @@ Inception v1使用了Inception模块，拓展了网络的宽度，即对输入�
 4. Rethinking the Inception Architecture for Computer Vision
 5. Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning
 
+网络发展：
 
-
-
+![1568817992122](../img/1568817992122.png)
 
