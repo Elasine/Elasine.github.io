@@ -32,11 +32,9 @@ Inception v1使用了Inception模块，拓展了网络的宽度，即对输入�
 5. 第一个7*7的卷积层替换成了3个3*3的卷积
 6. 在辅助层的全连接层后面进行了BN操作
 
-Inception V4  Inception-ResNet V1 Inception-ResNet V2
+## Inception V4  Inception-ResNet V1 Inception-ResNet V2
 
 结合残差网络单元进行改进，加速训练，性能提升
-
-
 
 参考：
 
