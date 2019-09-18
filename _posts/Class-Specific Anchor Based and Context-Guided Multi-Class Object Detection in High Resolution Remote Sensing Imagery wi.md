@@ -1,3 +1,15 @@
+layout:     post
+title:    Class-Specific Anchor Based and Context-Guided Multi-Class Object Detection in High Resolution Remote Sensing Imagery with a Convolutional Neural Network
+subtitle:  基于特定类的锚框和上下文引导机制，使用卷积神经网络进行高分辨率遥感影像中的多目标检测
+date:       2019-09-18
+author:     BY E
+catalog: true
+tags:
+
+    - Object Detection
+    - Context-Guided
+    - Remote Sensing Imagery
+
 # Class-Specific Anchor Based and Context-Guided Multi-Class Object Detection in High Resolution Remote Sensing Imagery with a Convolutional Neural Network
 
 [TOC]
