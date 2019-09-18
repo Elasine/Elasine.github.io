@@ -2,8 +2,10 @@
 layout:     post
 title:      High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection
 subtitle:  高层的语义特征检测：行人检测新思路
-date:       2019-09-18
-author:     BY E
+date:       2019-09-10
+author:     BY Elasine
+header-img: "../img/1568775039052.png"
+header-style: markdown
 catalog: true
 tags:
     - Detection
@@ -12,7 +14,6 @@ tags:
 
 ---
 
-[TOC]
 
 # High-level Semantic Feature Detection:A New Perspective for Pedestrian Detection
 
