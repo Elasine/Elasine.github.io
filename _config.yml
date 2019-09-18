@@ -18,12 +18,12 @@ sidebar-avatar: /img/fish.jpg      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-#zhihu_username:     qiubaiying
+# weibo_username:     Elasine
+#zhihu_username:     Elasine
 github_username:    Elasine
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+#facebook_username:  Elasine
+#jianshu_username:   Elasine
+#twitter_username:   Elasine
 
 
 
@@ -85,7 +85,7 @@ gitalk:
 
 
 # Featured Tags
-featured-tags: false                     # 是否使用首页标签
+featured-tags: true                    # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
