@@ -9,12 +9,7 @@ tags:
     - Detection
     - Anchor-free
     - Pedestrian Detection
-    - 2019 CVPR
 ---
-
-
-
-
 
 [TOC]
 
