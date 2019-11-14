@@ -1,4 +1,4 @@
-2019-11-14-Ubuntu开启SSH服务,Windows通过ssh连接
+Ubuntu开启SSH服务,Windows通过ssh连接
 
 - 安装SSH服务  
 
@@ -27,4 +27,3 @@
   ```
 
   Windows通过Mobaxterm软件根据IP地址以及账户名登录Ubuntu服务器
-
